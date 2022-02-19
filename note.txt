@@ -12,3 +12,12 @@ squoosh.app
 situs buat gelombang
 
 getwaves.io
+
+
+github
+
+replace dan edit"
+
+git add.
+git commit -m 'mengubah tombol warna menjadi hijau'
+git push -u
