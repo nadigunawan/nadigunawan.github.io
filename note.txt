@@ -1,0 +1,14 @@
+vigma
+
+prettier
+seting default format enbsp.pretier
+
+auto rename tag
+
+
+crop gambar
+squoosh.app
+
+situs buat gelombang
+
+getwaves.io
