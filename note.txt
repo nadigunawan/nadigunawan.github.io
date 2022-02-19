@@ -18,6 +18,8 @@ github
 
 replace dan edit"
 
-git add.
+git add .
 git commit -m 'mengubah tombol warna menjadi hijau'
 git push -u
+
+https://github.com/jamiewilson/form-to-google-sheets
