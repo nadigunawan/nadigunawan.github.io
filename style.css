@@ -14,6 +14,13 @@
 section {
   padding-top: 5rem;
 }
+.gallery-img {
+  width: 100%;
+}
+/* apapun yang ada di galerry setelah row akan di hilangkan paddingnya */
+#gallery .row > * {
+  padding: 0;
+}
 #btn-back-to-top {
   position: fixed;
   bottom: 40px;

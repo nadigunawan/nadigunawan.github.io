@@ -20,6 +20,10 @@ replace dan edit"
 
 git add .
 git commit -m 'mengubah tombol warna menjadi hijau'
-git push -u
+git push 
 
 https://github.com/jamiewilson/form-to-google-sheets
+
+animasi : aos
+https://github.com/michalsnik/aos
+gsap : https://greensock.com/gsap/
