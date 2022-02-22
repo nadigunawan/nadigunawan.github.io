@@ -258,15 +258,15 @@
             <form name="baligrafi-contact-form">
               <div class="mb-3">
                 <label for="name">Nama Lengkap</label>
-                <input type="text" class="form-control mt-2" id="name" aria-describedby="name" name="nama" />
+                <input type="text" class="form-control mt-2" id="name" aria-describedby="name" name="nama" placeholder="Masukkan nama anda" required />
               </div>
               <div class="mb-3">
                 <label for="email">Email</label>
-                <input type="emai" class="form-control mt-2" id="email" aria-describedby="email" name="email" />
+                <input type="emai" class="form-control mt-2" id="email" aria-describedby="email" name="email" placeholder="Masukkan email anda" required />
               </div>
               <div class="mb-3">
                 <label for="pesan" class="form-label">Pesan</label>
-                <textarea class="form-control mt-2" id="pesan" rows="3" name="pesan"></textarea>
+                <textarea class="form-control mt-2" id="pesan" rows="3" name="pesan" placeholder="Masukkan pesan anda" required></textarea>
               </div>
 
               <button type="submit" class="btn btn-primary btn-kirim">Kirim</button>
@@ -392,5 +392,11 @@
         document.documentElement.scrollTop = 0;
       }
     </script>
+
+    <!-- <script>
+      $("#sosmed").click(function () {
+        data-bs-toggle="collapse" data-bs-target="#navbarNav"
+      });
+    </script> -->
   </body>
 </html>

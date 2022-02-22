@@ -25,7 +25,7 @@ section {
 #btn-back-to-top {
   position: fixed;
   bottom: 40px;
-  right: 40px;
+  right: 10px;
   margin-bottom: 2rem;
   display: none;
 }
